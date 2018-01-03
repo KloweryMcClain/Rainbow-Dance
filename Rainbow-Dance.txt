@@ -2,4 +2,5 @@ Rainbow-Dance
 Step Left.
 Step Right.
 Jump up and Down.
+Twirl your hands.
 Do the Rainbow Dance.
